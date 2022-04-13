@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">inputcontrols</string>
+
+    <string-array name="city">
+        <item>Palanpur</item>
+        <item>Mahesana</item>
+        <item>Visnagar</item>
+        <item>Ahmedabad</item>
+        <item>Gandhinagar</item>
+        <item>Jamnagar</item>
+    </string-array>
+</resources>
